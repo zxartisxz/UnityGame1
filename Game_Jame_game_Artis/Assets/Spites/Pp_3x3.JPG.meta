@@ -1,0 +1,3054 @@
+fileFormatVersion: 2
+guid: 03918268aed69ef4a89bc411eb7478b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7676399176042878198
+    second: Puzle_pieces_0
+  - first:
+      213: -3917571859599070166
+    second: Puzle_pieces_1
+  - first:
+      213: 8927547972821380998
+    second: Puzle_pieces_2
+  - first:
+      213: -2926309255372453609
+    second: Puzle_pieces_3
+  - first:
+      213: -6356584942069930041
+    second: Puzle_pieces_4
+  - first:
+      213: 1316636226425322418
+    second: Puzle_pieces_5
+  - first:
+      213: 7105014065934752350
+    second: Puzle_pieces_6
+  - first:
+      213: 4929662089999100743
+    second: Puzle_pieces_7
+  - first:
+      213: 5841152107314336925
+    second: Puzle_pieces_8
+  - first:
+      213: 6708739589075849816
+    second: Puzle_pieces_9
+  - first:
+      213: -3475697988393014448
+    second: Puzle_pieces_10
+  - first:
+      213: 6909169036588073072
+    second: Puzle_pieces_11
+  - first:
+      213: -2947267643040409731
+    second: Puzle_pieces_12
+  - first:
+      213: 1174804780123764847
+    second: Puzle_pieces_13
+  - first:
+      213: -6755305956545012047
+    second: Puzle_pieces_14
+  - first:
+      213: 7824020070907114636
+    second: Puzle_pieces_15
+  - first:
+      213: -1338227332059126676
+    second: Puzle_pieces_16
+  - first:
+      213: -6516451725068077898
+    second: Puzle_pieces_17
+  - first:
+      213: 8797581222856329424
+    second: Puzle_pieces_18
+  - first:
+      213: -1481361269864714016
+    second: Puzle_pieces_19
+  - first:
+      213: 5331503106544942113
+    second: Puzle_pieces_20
+  - first:
+      213: -1530808680549923963
+    second: Puzle_pieces_21
+  - first:
+      213: -4824959379198105130
+    second: Puzle_pieces_22
+  - first:
+      213: -773140281764326013
+    second: Puzle_pieces_23
+  - first:
+      213: 5140444518593511554
+    second: Puzle_pieces_24
+  - first:
+      213: 3382384409659515500
+    second: Puzle_pieces_25
+  - first:
+      213: -4630802182286509243
+    second: Puzle_pieces_26
+  - first:
+      213: -5799500740016945809
+    second: Puzle_pieces_27
+  - first:
+      213: -616149149343634193
+    second: Puzle_pieces_28
+  - first:
+      213: -843359703326523959
+    second: Puzle_pieces_29
+  - first:
+      213: 7062682386217127684
+    second: Puzle_pieces_30
+  - first:
+      213: 7996612716170902227
+    second: Puzle_pieces_31
+  - first:
+      213: -95965450460166074
+    second: Puzle_pieces_32
+  - first:
+      213: 8158859391242723042
+    second: Puzle_pieces_33
+  - first:
+      213: -6173545147815437092
+    second: Puzle_pieces_34
+  - first:
+      213: 1878383956082560320
+    second: Puzle_pieces_35
+  - first:
+      213: -949696583812151860
+    second: Puzle_pieces_36
+  - first:
+      213: 6194082819117865230
+    second: Puzle_pieces_37
+  - first:
+      213: 3571890041156303252
+    second: Puzle_pieces_38
+  - first:
+      213: 2276218491015017302
+    second: Puzle_pieces_39
+  - first:
+      213: 7951917876796370344
+    second: Puzle_pieces_40
+  - first:
+      213: -8435804092730972868
+    second: Puzle_pieces_41
+  - first:
+      213: -136633835956147179
+    second: Puzle_pieces_42
+  - first:
+      213: -687431449386393822
+    second: Puzle_pieces_43
+  - first:
+      213: 4898020400908977500
+    second: Puzle_pieces_44
+  - first:
+      213: 2667486443490916429
+    second: Puzle_pieces_45
+  - first:
+      213: 5823120487509401978
+    second: Puzle_pieces_46
+  - first:
+      213: -3579974595389282257
+    second: Puzle_pieces_47
+  - first:
+      213: -4206233566965380372
+    second: Puzle_pieces_48
+  - first:
+      213: 7002292550840621232
+    second: Puzle_pieces_49
+  - first:
+      213: 3568331345223730338
+    second: Puzle_pieces_50
+  - first:
+      213: 7621145488692783541
+    second: Puzle_pieces_51
+  - first:
+      213: -4641373881397197849
+    second: Puzle_pieces_52
+  - first:
+      213: 7767382459595903133
+    second: Puzle_pieces_53
+  - first:
+      213: 1898422971024481267
+    second: Puzle_pieces_54
+  - first:
+      213: 3647240797889995173
+    second: Puzle_pieces_55
+  - first:
+      213: -4534680514443096328
+    second: Puzle_pieces_56
+  - first:
+      213: -8650357300976619351
+    second: Puzle_pieces_57
+  - first:
+      213: 3776763914870154687
+    second: Puzle_pieces_58
+  - first:
+      213: -7189356877632929156
+    second: Puzle_pieces_59
+  - first:
+      213: -285154993912931458
+    second: Puzle_pieces_60
+  - first:
+      213: -2172202415565478440
+    second: Puzle_pieces_61
+  - first:
+      213: 5356134658874950079
+    second: Puzle_pieces_62
+  - first:
+      213: 3893630798358748602
+    second: Puzle_pieces_63
+  - first:
+      213: -8166376004137565966
+    second: Puzle_pieces_64
+  - first:
+      213: 8584552094063215112
+    second: Puzle_pieces_65
+  - first:
+      213: 7837251317250670316
+    second: Puzle_pieces_66
+  - first:
+      213: 5352027216514020775
+    second: Puzle_pieces_67
+  - first:
+      213: 7782600928200286093
+    second: Puzle_pieces_68
+  - first:
+      213: -6770340593564468513
+    second: Puzle_pieces_69
+  - first:
+      213: -8236689073905545223
+    second: Puzle_pieces_70
+  - first:
+      213: 5108490114708092967
+    second: Puzle_pieces_71
+  - first:
+      213: -740588057711171739
+    second: Puzle_pieces_72
+  - first:
+      213: 1747021793579152174
+    second: Puzle_pieces_73
+  - first:
+      213: -1527495322491317801
+    second: Puzle_pieces_74
+  - first:
+      213: -5077363749945342215
+    second: Puzle_pieces_75
+  - first:
+      213: 421967081661007773
+    second: Puzle_pieces_76
+  - first:
+      213: -4821665474531402537
+    second: Puzle_pieces_77
+  - first:
+      213: 3034384223490648530
+    second: Puzle_pieces_78
+  - first:
+      213: 2782092328193532187
+    second: Puzle_pieces_79
+  - first:
+      213: 6834465739623896679
+    second: Puzle_pieces_80
+  - first:
+      213: -1312492393295579875
+    second: Puzle_pieces_81
+  - first:
+      213: -1907679389736274972
+    second: Puzle_pieces_82
+  - first:
+      213: -6782651905846523394
+    second: Puzle_pieces_83
+  - first:
+      213: 6500032172916095208
+    second: Puzle_pieces_84
+  - first:
+      213: 816210668905623073
+    second: Puzle_pieces_85
+  - first:
+      213: 166431393410545787
+    second: Puzle_pieces_86
+  - first:
+      213: 685736086677165840
+    second: Puzle_pieces_87
+  - first:
+      213: -7586994989660321164
+    second: Puzle_pieces_88
+  - first:
+      213: -1857208704935005815
+    second: Puzle_pieces_89
+  - first:
+      213: -7173292735845719972
+    second: Puzle_pieces_90
+  - first:
+      213: -7091877083468321307
+    second: Puzle_pieces_91
+  - first:
+      213: 1557397398283243774
+    second: Puzle_pieces_92
+  - first:
+      213: -951100069991177851
+    second: Puzle_pieces_93
+  - first:
+      213: 496284144475467823
+    second: Puzle_pieces_94
+  - first:
+      213: -4348371985398026188
+    second: Puzle_pieces_95
+  - first:
+      213: 7272813274164181095
+    second: Puzle_pieces_96
+  - first:
+      213: 8504248104599785225
+    second: Puzle_pieces_97
+  - first:
+      213: -1268318205229894213
+    second: Puzle_pieces_98
+  - first:
+      213: 1186920217613123781
+    second: Puzle_pieces_99
+  - first:
+      213: 5734007250258406874
+    second: Puzle_pieces_100
+  - first:
+      213: -3622790764571431007
+    second: Puzle_pieces_101
+  - first:
+      213: 3430044363910064370
+    second: Puzle_pieces_102
+  - first:
+      213: -2840221991395153656
+    second: Puzle_pieces_103
+  - first:
+      213: -5260453555699020977
+    second: Puzle_pieces_104
+  - first:
+      213: 4231253757528742042
+    second: Puzle_pieces_105
+  - first:
+      213: -5411607681936695889
+    second: Puzle_pieces_106
+  - first:
+      213: 6513124989426162746
+    second: Puzle_pieces_107
+  - first:
+      213: 7394453016858201108
+    second: Puzle_pieces_108
+  - first:
+      213: -3702491990089311331
+    second: Puzle_pieces_109
+  - first:
+      213: -3756603317535050193
+    second: Puzle_pieces_110
+  - first:
+      213: 7363647596608342266
+    second: Puzle_pieces_111
+  - first:
+      213: -7046820741948627890
+    second: Puzle_pieces_112
+  - first:
+      213: 7662283903304393770
+    second: Puzle_pieces_113
+  - first:
+      213: -8869528428748335683
+    second: Puzle_pieces_114
+  - first:
+      213: 1622092288040348580
+    second: Puzle_pieces_115
+  - first:
+      213: 3744563777930705203
+    second: Puzle_pieces_116
+  - first:
+      213: -4940639752728805095
+    second: Puzle_pieces_117
+  - first:
+      213: -8805103961823624820
+    second: Puzle_pieces_118
+  - first:
+      213: 3115505372025300969
+    second: Puzle_pieces_119
+  - first:
+      213: 5633963548067143935
+    second: Puzle_pieces_120
+  - first:
+      213: -7075959675230605868
+    second: Puzle_pieces_121
+  - first:
+      213: -5993101616510606104
+    second: Puzle_pieces_122
+  - first:
+      213: -6834928709581440804
+    second: Puzle_pieces_123
+  - first:
+      213: 1361622626424481416
+    second: Puzle_pieces_124
+  - first:
+      213: 6444943169365321788
+    second: Puzle_pieces_125
+  - first:
+      213: 2031049629035245986
+    second: Puzle_pieces_126
+  - first:
+      213: 1064041771747409129
+    second: Puzle_pieces_127
+  - first:
+      213: -5242244941915362822
+    second: Puzle_pieces_128
+  - first:
+      213: 5092621940969458144
+    second: Puzle_pieces_129
+  - first:
+      213: -4056726157757776055
+    second: Puzle_pieces_130
+  - first:
+      213: 356553127333161035
+    second: Puzle_pieces_131
+  - first:
+      213: -2548178839515786272
+    second: Puzle_pieces_132
+  - first:
+      213: -1167735953092276874
+    second: Puzle_pieces_133
+  - first:
+      213: -6478647849508459132
+    second: Puzle_pieces_134
+  - first:
+      213: -8041840896620892045
+    second: Puzle_pieces_135
+  - first:
+      213: 5375265410752554699
+    second: Puzle_pieces_136
+  - first:
+      213: -7761736500567801955
+    second: Puzle_pieces_137
+  - first:
+      213: -1263161907507453042
+    second: Puzle_pieces_138
+  - first:
+      213: 1145207920699324682
+    second: Puzle_pieces_139
+  - first:
+      213: -2704879610996357887
+    second: Puzle_pieces_140
+  - first:
+      213: -4359763885627678858
+    second: Puzle_pieces_141
+  - first:
+      213: 4955177992646180616
+    second: Puzle_pieces_142
+  - first:
+      213: 1022501821591083942
+    second: Puzle_pieces_143
+  - first:
+      213: 2439347892834757858
+    second: Puzle_pieces_144
+  - first:
+      213: 2434355880945764674
+    second: Puzle_pieces_145
+  - first:
+      213: -5848347461390743405
+    second: Puzle_pieces_146
+  - first:
+      213: 8399424771932870304
+    second: Puzle_pieces_147
+  - first:
+      213: 1632437491068841296
+    second: Puzle_pieces_148
+  - first:
+      213: 7698745403791844692
+    second: Puzle_pieces_149
+  - first:
+      213: 4166455616224827136
+    second: Puzle_pieces_150
+  - first:
+      213: 8540709149173082368
+    second: Puzle_pieces_151
+  - first:
+      213: 1291501426984876129
+    second: Puzle_pieces_152
+  - first:
+      213: -9029218832748124301
+    second: Puzle_pieces_153
+  - first:
+      213: 2027103173330154287
+    second: Puzle_pieces_154
+  - first:
+      213: -3690926996378138513
+    second: Puzle_pieces_155
+  - first:
+      213: -268810342182134373
+    second: Puzle_pieces_156
+  - first:
+      213: 1821948367226816224
+    second: Puzle_pieces_157
+  - first:
+      213: 5852433267357854742
+    second: Puzle_pieces_158
+  - first:
+      213: -5090425460726441328
+    second: Puzle_pieces_159
+  - first:
+      213: -8128399451787874450
+    second: Puzle_pieces_160
+  - first:
+      213: -4668204017251894753
+    second: Puzle_pieces_161
+  - first:
+      213: -817337670457462766
+    second: Puzle_pieces_162
+  - first:
+      213: -1843229885236368399
+    second: Puzle_pieces_163
+  - first:
+      213: -336125396492858030
+    second: Puzle_pieces_164
+  - first:
+      213: -1724284422899190850
+    second: Puzle_pieces_165
+  - first:
+      213: 3243947500514866482
+    second: Puzle_pieces_166
+  - first:
+      213: 8745161827559804096
+    second: Puzle_pieces_167
+  - first:
+      213: -2699607560451080201
+    second: Puzle_pieces_168
+  - first:
+      213: 2128763864814047109
+    second: Puzle_pieces_169
+  - first:
+      213: -7759007851343952329
+    second: Puzle_pieces_170
+  - first:
+      213: -7642202456483372451
+    second: Puzle_pieces_171
+  - first:
+      213: 4753547392025072573
+    second: Puzle_pieces_172
+  - first:
+      213: 8286174438951766186
+    second: Puzle_pieces_173
+  - first:
+      213: -9221722140951248182
+    second: Puzle_pieces_174
+  - first:
+      213: -8310441601296885407
+    second: Puzle_pieces_175
+  - first:
+      213: 1517813913399999565
+    second: Puzle_pieces_176
+  - first:
+      213: 6546251970013607526
+    second: Puzle_pieces_177
+  - first:
+      213: 3541442414397287660
+    second: Puzle_pieces_178
+  - first:
+      213: 8559260939087172983
+    second: Puzle_pieces_179
+  - first:
+      213: 1280761151518176949
+    second: Puzle_pieces_180
+  - first:
+      213: 7655858165461727909
+    second: Puzle_pieces_181
+  - first:
+      213: 1584181711224220329
+    second: Puzle_pieces_182
+  - first:
+      213: -4506422938056984433
+    second: Puzle_pieces_183
+  - first:
+      213: -4917842023049675479
+    second: Puzle_pieces_184
+  - first:
+      213: -7169875147248880617
+    second: Puzle_pieces_185
+  - first:
+      213: -2119887299328260100
+    second: Puzle_pieces_186
+  - first:
+      213: 3903738041128294574
+    second: Puzle_pieces_187
+  - first:
+      213: 4164697310976547933
+    second: Puzle_pieces_188
+  - first:
+      213: 5572313357273666760
+    second: Puzle_pieces_189
+  - first:
+      213: 7151237791116951135
+    second: Puzle_pieces_190
+  - first:
+      213: -9124241930488850549
+    second: Puzle_pieces_191
+  - first:
+      213: -298127546205437563
+    second: Puzle_pieces_192
+  - first:
+      213: 6805357798543611016
+    second: Puzle_pieces_193
+  - first:
+      213: -6615622096331581717
+    second: Puzle_pieces_194
+  - first:
+      213: 5441765262601288609
+    second: Puzle_pieces_195
+  - first:
+      213: -5132526340091793410
+    second: Puzle_pieces_196
+  - first:
+      213: 91335504433780646
+    second: Puzle_pieces_197
+  - first:
+      213: 7718257057117817192
+    second: Puzle_pieces_198
+  - first:
+      213: 4052078142837107802
+    second: Puzle_pieces_199
+  - first:
+      213: 7694970439846081004
+    second: Puzle_pieces_200
+  - first:
+      213: 106947679565989883
+    second: Puzle_pieces_201
+  - first:
+      213: -3779159864462397195
+    second: Puzle_pieces_202
+  - first:
+      213: -9206568071551978722
+    second: Puzle_pieces_203
+  - first:
+      213: 3687034785173337002
+    second: Puzle_pieces_204
+  - first:
+      213: 2981562649337565121
+    second: Puzle_pieces_205
+  - first:
+      213: -1737991728704016612
+    second: Puzle_pieces_206
+  - first:
+      213: -5337523918908550718
+    second: Puzle_pieces_207
+  - first:
+      213: 5521045096442785786
+    second: Puzle_pieces_208
+  - first:
+      213: -1684966656978958125
+    second: Puzle_pieces_209
+  - first:
+      213: 8710583232499805824
+    second: Puzle_pieces_210
+  - first:
+      213: 1367650831777336082
+    second: Puzle_pieces_211
+  - first:
+      213: 259768820817398389
+    second: Puzle_pieces_212
+  - first:
+      213: -320041668036493146
+    second: Puzle_pieces_213
+  - first:
+      213: -1254938917425619667
+    second: Puzle_pieces_214
+  - first:
+      213: -64334143355934610
+    second: Puzle_pieces_215
+  - first:
+      213: -7234678392930291257
+    second: Puzle_pieces_216
+  - first:
+      213: -1474319881456042551
+    second: Puzle_pieces_217
+  - first:
+      213: 2891306294207782964
+    second: Puzle_pieces_218
+  - first:
+      213: -4903405607728217934
+    second: Puzle_pieces_219
+  - first:
+      213: 658328986203871896
+    second: Puzle_pieces_220
+  - first:
+      213: -4052681280693134628
+    second: Puzle_pieces_221
+  - first:
+      213: 6747501143297509608
+    second: Puzle_pieces_222
+  - first:
+      213: 920733905228634768
+    second: Puzle_pieces_223
+  - first:
+      213: -3828769617434036070
+    second: Puzle_pieces_224
+  - first:
+      213: 7552192850770687661
+    second: Puzle_pieces_225
+  - first:
+      213: 3704769669809290588
+    second: Puzle_pieces_226
+  - first:
+      213: -1664105098288912587
+    second: Puzle_pieces_227
+  - first:
+      213: 4790879774139259574
+    second: Puzle_pieces_228
+  - first:
+      213: 4843193670942849996
+    second: Puzle_pieces_229
+  - first:
+      213: 7008876258410141868
+    second: Puzle_pieces_230
+  - first:
+      213: 7180130372964661035
+    second: Puzle_pieces_231
+  - first:
+      213: -5348903593280620780
+    second: Puzle_pieces_232
+  - first:
+      213: 2092449678494290942
+    second: Puzle_pieces_233
+  - first:
+      213: -2786835730713774404
+    second: Puzle_pieces_234
+  - first:
+      213: -206378869075525877
+    second: Puzle_pieces_235
+  - first:
+      213: 8324548328796163039
+    second: Puzle_pieces_236
+  - first:
+      213: 6916970575711949160
+    second: Puzle_pieces_237
+  - first:
+      213: 3127796567404531936
+    second: Puzle_pieces_238
+  - first:
+      213: -2513346763646085088
+    second: Puzle_pieces_239
+  - first:
+      213: -2439370221531675265
+    second: Puzle_pieces_240
+  - first:
+      213: -7986167079402794088
+    second: Puzle_pieces_241
+  - first:
+      213: 8322343393218893348
+    second: Puzle_pieces_242
+  - first:
+      213: -3260033420929761455
+    second: Puzle_pieces_243
+  - first:
+      213: -3031909034367147889
+    second: Puzle_pieces_244
+  - first:
+      213: 7710556974205311625
+    second: Puzle_pieces_245
+  - first:
+      213: 2480196378349043202
+    second: Puzle_pieces_246
+  - first:
+      213: 5732780012771153591
+    second: Puzle_pieces_247
+  - first:
+      213: 7233579755215491569
+    second: Puzle_pieces_248
+  - first:
+      213: 8852944874147376370
+    second: Puzle_pieces_249
+  - first:
+      213: -2066069600006434693
+    second: Puzle_pieces_250
+  - first:
+      213: 5656040941040341299
+    second: Puzle_pieces_251
+  - first:
+      213: -286431380870235615
+    second: Puzle_pieces_252
+  - first:
+      213: -8762329124691805187
+    second: Puzle_pieces_253
+  - first:
+      213: -1171358821608416586
+    second: Puzle_pieces_254
+  - first:
+      213: -2625926174594186425
+    second: Puzle_pieces_255
+  - first:
+      213: -4598106570318321999
+    second: Puzle_pieces_256
+  - first:
+      213: -7339025130813660127
+    second: Puzle_pieces_257
+  - first:
+      213: 1673213363487296769
+    second: Puzle_pieces_258
+  - first:
+      213: -7488332017224397765
+    second: Puzle_pieces_259
+  - first:
+      213: 211189044613897381
+    second: Puzle_pieces_260
+  - first:
+      213: -8020105073381097139
+    second: Puzle_pieces_261
+  - first:
+      213: 7758961652764513106
+    second: Puzle_pieces_262
+  - first:
+      213: 5323821609264073849
+    second: Puzle_pieces_263
+  - first:
+      213: 31284487281617156
+    second: Puzle_pieces_264
+  - first:
+      213: 3862890907844938155
+    second: Puzle_pieces_265
+  - first:
+      213: 3513546565678788209
+    second: Puzle_pieces_266
+  - first:
+      213: 4777537493077247795
+    second: Puzle_pieces_267
+  - first:
+      213: 6548626389388977935
+    second: Puzle_pieces_268
+  - first:
+      213: -8525606717500440341
+    second: Puzle_pieces_269
+  - first:
+      213: 1291492286608111996
+    second: Puzle_pieces_270
+  - first:
+      213: 4910726189369416390
+    second: Puzle_pieces_271
+  - first:
+      213: 812691348824765997
+    second: Puzle_pieces_272
+  - first:
+      213: 6393531509093670622
+    second: Puzle_pieces_273
+  - first:
+      213: -1797299041755386072
+    second: Puzle_pieces_274
+  - first:
+      213: -2657353059052523553
+    second: Puzle_pieces_275
+  - first:
+      213: -2403875434484577939
+    second: Puzle_pieces_276
+  - first:
+      213: -5732666988817714402
+    second: Puzle_pieces_277
+  - first:
+      213: 2978545122939711817
+    second: Puzle_pieces_278
+  - first:
+      213: 4088192461919071755
+    second: Puzle_pieces_279
+  - first:
+      213: -8075064974203265463
+    second: Puzle_pieces_280
+  - first:
+      213: -2055422925658593748
+    second: Puzle_pieces_281
+  - first:
+      213: 5443932760770995818
+    second: Puzle_pieces_282
+  - first:
+      213: -7909024094706680097
+    second: Puzle_pieces_283
+  - first:
+      213: 3221015847311501057
+    second: Puzle_pieces_284
+  - first:
+      213: 8099730715332478703
+    second: Puzle_pieces_285
+  - first:
+      213: 8502211549472127475
+    second: Puzle_pieces_286
+  - first:
+      213: -3713544784490340103
+    second: Puzle_pieces_287
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puzle_pieces_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4132a116c088a60800000000000000
+      internalID: 7676399176042878198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ce78e562df1a9c0800000000000000
+      internalID: -3917571859599070166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe643c49505eb70800000000000000
+      internalID: 8927547972821380998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719469a8c39a367d0800000000000000
+      internalID: -2926309255372453609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7235f7cafd8c7a0800000000000000
+      internalID: -6356584942069930041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbfd7e0ca1a54210800000000000000
+      internalID: 1316636226425322418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ad13426a41a9260800000000000000
+      internalID: 7105014065934752350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b2b196d8da96440800000000000000
+      internalID: 4929662089999100743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94de73d4e0ff0150800000000000000
+      internalID: 5841152107314336925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_9
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8525771ac1b3a1d50800000000000000
+      internalID: 6708739589075849816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b6b473817d3cfc0800000000000000
+      internalID: -3475697988393014448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c5f6e1ac42ef50800000000000000
+      internalID: 6909169036588073072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77d296a1b33917d0800000000000000
+      internalID: -2947267643040409731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 506
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6835bf19bebd4010800000000000000
+      internalID: 1174804780123764847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bedd0f06055042a0800000000000000
+      internalID: -6755305956545012047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f1f11dc0849c60800000000000000
+      internalID: 7824020070907114636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 420
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a5ebe459ad6de0800000000000000
+      internalID: -1338227332059126676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4f5538ea9e095a0800000000000000
+      internalID: -6516451725068077898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88ff6b289471a70800000000000000
+      internalID: 8797581222856329424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e031bd06c5217be0800000000000000
+      internalID: -1481361269864714016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cb080f3dd4df940800000000000000
+      internalID: 5331503106544942113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583ccb89d9971cae0800000000000000
+      internalID: -1530808680549923963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92533220d4a0db0800000000000000
+      internalID: -4824959379198105130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38554ef82014545f0800000000000000
+      internalID: -773140281764326013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280ce5eed07865740800000000000000
+      internalID: 5140444518593511554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_25
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62239f23b4a0fe20800000000000000
+      internalID: 3382384409659515500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b75b343f51cbfb0800000000000000
+      internalID: -4630802182286509243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_27
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 422
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65cca4ddc8048fa0800000000000000
+      internalID: -5799500740016945809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca6b8fc9ff277f0800000000000000
+      internalID: -616149149343634193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdf75171d8cb44f0800000000000000
+      internalID: -843359703326523959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f41e7e530b30260800000000000000
+      internalID: 7062682386217127684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_31
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dafcb1c5eca9fe60800000000000000
+      internalID: 7996612716170902227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6488c966eef0baef0800000000000000
+      internalID: -95965450460166074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eed16b83671a3170800000000000000
+      internalID: 8158859391242723042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcdf9b9569235aa0800000000000000
+      internalID: -6173545147815437092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0816814c511a10800000000000000
+      internalID: 1878383956082560320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5897d1dfff1d2f0800000000000000
+      internalID: -949696583812151860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_37
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09dede918dc5f550800000000000000
+      internalID: 6194082819117865230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49970e75117e19130800000000000000
+      internalID: 3571890041156303252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_39
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653302c58a0c69f10800000000000000
+      internalID: 2276218491015017302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_40
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ada6898d23ea5e60800000000000000
+      internalID: 7951917876796370344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_41
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 338
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ebf95fd00eea80800000000000000
+      internalID: -8435804092730972868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce88700449a1ef0800000000000000
+      internalID: -136633835956147179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f54eb2db0c576f0800000000000000
+      internalID: -687431449386393822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55cbc29a9349f340800000000000000
+      internalID: 4898020400908977500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48327399c0d40520800000000000000
+      internalID: 2667486443490916429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a712c4e2b31efc050800000000000000
+      internalID: 5823120487509401978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_47
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2826e0b210615ec0800000000000000
+      internalID: -3579974595389282257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_48
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea44be3bd470a5c0800000000000000
+      internalID: -4206233566965380372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8183aa9f32d2160800000000000000
+      internalID: 7002292550840621232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_50
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4c3f0e372458130800000000000000
+      internalID: 3568331345223730338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_51
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9aa13817fb3c960800000000000000
+      internalID: 7621145488692783541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_52
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e34b81cb07869fb0800000000000000
+      internalID: -4641373881397197849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_53
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9050d291394bcb60800000000000000
+      internalID: 7767382459595903133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_54
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb1b5542ad885a10800000000000000
+      internalID: 1898422971024481267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_55
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 254
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1ab888e2a9d9230800000000000000
+      internalID: 3647240797889995173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fecbbe09149111c0800000000000000
+      internalID: -4534680514443096328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f417cdd1c3f780800000000000000
+      internalID: -8650357300976619351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5695a35c2c96430800000000000000
+      internalID: 3776763914870154687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c728d29b2064a3c90800000000000000
+      internalID: -7189356877632929156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b14e93b0dea0cf0800000000000000
+      internalID: -285154993912931458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_61
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d569ff6969cad1e0800000000000000
+      internalID: -2172202415565478440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_62
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1466f1810d45a40800000000000000
+      internalID: 5356134658874950079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_63
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd91bee494f80630800000000000000
+      internalID: 3893630798358748602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f04b13aa443bae80800000000000000
+      internalID: -8166376004137565966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_65
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802497a85a4722770800000000000000
+      internalID: 8584552094063215112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee303cac8283cc60800000000000000
+      internalID: 7837251317250670316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_67
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a57a8ca568364a40800000000000000
+      internalID: 5352027216514020775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_68
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd00a6f4a510c60800000000000000
+      internalID: 7782600928200286093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_69
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 170
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdabe28d91bea02a0800000000000000
+      internalID: -6770340593564468513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffc4885de661bd80800000000000000
+      internalID: -8236689073905545223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_71
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72835c181b005e640800000000000000
+      internalID: 5108490114708092967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_72
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567aa37d517e8b5f0800000000000000
+      internalID: -740588057711171739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b62da01bae3810800000000000000
+      internalID: 1747021793579152174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_74
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d195d2e81f3dcae0800000000000000
+      internalID: -1527495322491317801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6001902949989b0800000000000000
+      internalID: -5077363749945342215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_76
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97005933d02bd500800000000000000
+      internalID: 421967081661007773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_77
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc5ac41cc0061db0800000000000000
+      internalID: -4821665474531402537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9a539df5c4c1a20800000000000000
+      internalID: 3034384223490648530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_79
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11a05a7b3afb9620800000000000000
+      internalID: 2782092328193532187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_80
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661cdf2166e8de50800000000000000
+      internalID: 6834465739623896679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_81
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15f6374f1719cde0800000000000000
+      internalID: -1312492393295579875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_82
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e37f6dc3bf8685e0800000000000000
+      internalID: -1907679389736274972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_83
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 86
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef944e4170e2fd1a0800000000000000
+      internalID: -6782651905846523394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8364792d0c43a50800000000000000
+      internalID: 6500032172916095208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ee0066743c35b00800000000000000
+      internalID: 816210668905623073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7875b378784f4200800000000000000
+      internalID: 166431393410545787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_87
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0171f007659348900800000000000000
+      internalID: 685736086677165840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ac0a8214495b690800000000000000
+      internalID: -7586994989660321164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_89
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f594d58ed936e0800000000000000
+      internalID: -1857208704935005815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_90
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a6023348537c90800000000000000
+      internalID: -7173292735845719972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_91
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2321fd57949d90800000000000000
+      internalID: -7091877083468321307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_92
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef05acaaeacfc9510800000000000000
+      internalID: 1557397398283243774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_93
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a35686830dc2f0800000000000000
+      internalID: -951100069991177851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_94
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f207e1bccc723e600800000000000000
+      internalID: 496284144475467823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_95
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430371bc7ba77a3c0800000000000000
+      internalID: -4348371985398026188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_96
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683d4cc3293ee460800000000000000
+      internalID: 7272813274164181095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puzle_pieces_97
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2
+        width: 49
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f857cf798250670800000000000000
+      internalID: 8504248104599785225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
